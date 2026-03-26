@@ -1,55 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Otávio+Abati;Engenharia+de+Software;Estudante+4º+Semestre" alt="Typing SVG" />
   
-  ### 👋 Olá! Sou estudante de Engenharia de Software no 4º Semestre.
-  *Focado em Java, SQL e na construção de softwares robustos.*
-</div>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=250&section=header&text=Otávio%20Abati&fontSize=60&animation=fadeIn&fontColor=fff" width="100%" alt="Banner Otávio Abati" />
 
----
+  <br>
 
-### 🚀 Sobre mim
-- 🎓 **Engenharia de Software** (4º Semestre).
-- 💻 Focado no ecossistema **Java** e **Estrutura de Dados**.
-- 🗄️ Especialista em "domar" o **PostgreSQL** (versão 18.3 🔥).
-- 🛠️ Desenvolvendo projetos práticos para o meu portfólio.
+  ## 👨‍💻 Sobre Mim
+  <p align="center">
+    Atualmente cursando o <strong>4º semestre de Engenharia de Software</strong>. <br>
+    Focado no desenvolvimento Backend com <strong>Java</strong>, manipulando dados com <strong>PostgreSQL</strong> e criando soluções robustas. <br>
+  </p>
 
----
+  <br>
 
-### 🛠 Ferramentas e Tecnologias
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,postgres,git,vscode,mysql,html,css" />
-</div>
-
----
-
----
-
----
-
-### 📊 Estatísticas e Desempenho
-<div align="center">
-  <img src="https://img.shields.io/github/followers/OtavioAbati?label=Seguidores&style=for-the-badge&color=36BCF7" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/OtavioAbati/OtavioAbati?style=for-the-badge&color=316192" alt="Estrelas" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Main_Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Linguagem Principal" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados" />
-</div>
-
----
-
-### 📫 Vamos nos conectar?
-<div align="center">
   <a href="https://linkedin.com/in/otavioabati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:otavioabatii@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </div>
 
-<br />
+<br><br>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,postgres,mysql,git,vscode,html,css" alt="Tecnologias" />
+</div>
+
+<br><br>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAbati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioAbati&theme=dracula" height="170em" alt="Sequência de Commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAbati&layout=compact&langs_count=7&theme=dracula" height="170em" alt="Linguagens Mais Usadas" />
+</div>
+
+<br><br>
+
+---
 
 <div align="center">
   *"O código é a lei, mas a lógica é a alma do software."*

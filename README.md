@@ -22,14 +22,17 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+---
+
+### 📊 Estatísticas e Desempenho
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAbati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtavioAbati&theme=dracula" height="170em" />
+  <img src="https://img.shields.io/github/commits-per-month/OtavioAbati/OtavioAbati?style=for-the-badge&logo=github&color=36BCF7" alt="Commits por Mês" />
+  <img src="https://img.shields.io/github/repo-size/OtavioAbati/OtavioAbati?style=for-the-badge&logo=github&color=316192" alt="Tamanho do Repositório" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAbati&layout=compact&langs_count=7&theme=dracula" height="170em" />
+  <img src="https://img.shields.io/github/languages/count/OtavioAbati/OtavioAbati?style=for-the-badge&logo=github&color=ED8B00" alt="Contagem de Linguagens" />
+  <img src="https://img.shields.io/github/languages/top/OtavioAbati/OtavioAbati?style=for-the-badge&logo=openjdk&logoColor=white&color=CC2927" alt="Linguagem Top" />
 </div>
 
 ---

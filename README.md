@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Otávio%20Abati&fontSize=45&animation=fadeIn" width="100%" />
+ <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Otavio%20Abati&fontSize=45" width="100%" />
   
   ### 👋 Olá! Sou estudante de Engenharia de Software no 4º Semestre.
   *Focado em Java, SQL e na construção de softwares robustos.*

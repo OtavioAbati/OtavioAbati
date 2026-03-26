@@ -12,7 +12,6 @@
 - 💻 Focado no ecossistema **Java** e **Estrutura de Dados**.
 - 🗄️ Especialista em "domar" o **PostgreSQL** (versão 18.3 🔥).
 - 🛠️ Desenvolvendo projetos práticos para o meu portfólio.
-- ⚽ Gremista nas horas vagas.
 
 ---
 

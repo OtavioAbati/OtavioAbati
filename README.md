@@ -15,7 +15,7 @@
 ## 🧑‍💻 Sobre mim
 
 <p align="left">
-Olá! Me chamo <strong>Otávio Abati</strong>, sou estudante do <strong>4º semestre de Engenharia de Software</strong>. Atualmente venho me dedicando ao universo da programação com o foco em desenvolver soluções robustas e escaláveis, priorizando o ecossistema <strong>Java</strong> e a manipulação eficiente de dados com <strong>PostgreSQL</strong>. Acredito que a lógica é a alma do software e busco sempre aplicar as melhores práticas em cada linha de código. Nas horas vagas, sou um entusiasta de tecnologia e <strong>Gremista</strong>. Fique à vontade para explorar meus projetos e entrar em contato para trocarmos uma ideia!
+Olá! Me chamo <strong>Otávio Abati</strong>, sou estudante do <strong>4º semestre de Engenharia de Software</strong>. Atualmente venho me dedicando ao universo da programação com o foco em desenvolver soluções robustas e escaláveis, priorizando o ecossistema <strong>Java</strong> e a manipulação eficiente de dados com <strong>PostgreSQL</strong>. Acredito que a lógica é a alma do software e busco sempre aplicar as melhores práticas em cada linha de código. Nas horas vagas, sou um entusiasta de tecnologia. Fique à vontade para explorar meus projetos e entrar em contato para trocarmos uma ideia!
 </p>
 
 ---

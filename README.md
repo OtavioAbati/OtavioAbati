@@ -15,7 +15,7 @@
 ## 🧑‍💻 Sobre mim
 
 <p align="left">
-Olá! Me chamo <strong>Otávio Abati</strong>, sou estudante do <strong>4º semestre de Engenharia de Software</strong>. Atualmente venho me dedicando ao desenvolvimento <strong>Fullstack</strong>, criando soluções robustas tanto no <strong>Backend</strong> com <strong>Java</strong> e <strong>Node.js</strong>, quanto interfaces modernas no <strong>Frontend</strong>. Busco sempre aplicar as melhores práticas de arquitetura e manipulação eficiente de dados com <strong>PostgreSQL</strong>. Acredito que o aprendizado constante é a chave para a evolução na tecnologia. Nas horas vagas, sou um entusiasta de tecnologia. Fique à vontade para explorar meus projetos!
+Olá! Me chamo <strong>Otávio Abati</strong>, sou estudante do <strong>5º semestre de Engenharia de Software</strong>. Atualmente venho me dedicando ao desenvolvimento <strong>Fullstack</strong>, criando soluções robustas tanto no <strong>Backend</strong> com <strong>Java</strong> e <strong>Node.js</strong>, quanto interfaces modernas no <strong>Frontend</strong>. Busco sempre aplicar as melhores práticas de arquitetura e manipulação eficiente de dados com <strong>PostgreSQL</strong>. Acredito que o aprendizado constante é a chave para a evolução na tecnologia. Nas horas vagas, sou um entusiasta de tecnologia. Fique à vontade para explorar meus projetos!
 </p>
 
 ---
